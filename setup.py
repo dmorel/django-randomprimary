@@ -9,8 +9,7 @@ setup(
     version = "0.0.1",
     author = "Juergen Brendel",
     author_email = "",
-    description = ("An demonstration of how to create, document, and publish "
-                                   "to the cheese shop a5 pypi.org."),
+    description = ("An abstract base class which provides a random looking primary key for Django models"),
     url = "https://github.com/jbrendel/django-randomprimary",
     packages=['django_randomprimary'],
     long_description=read('README'),
